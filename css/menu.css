@@ -110,7 +110,7 @@
   background-color: var(--overlay-color);
   border-radius: 50%;
   width: 200vw;
-  height: 200vw;
+  height: 200vh;
   display: flex;
   flex: none;
   justify-content: center;
